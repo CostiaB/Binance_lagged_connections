@@ -1,1 +1,1 @@
-# Binance_lagged_connections
+# Binance lagged connections
